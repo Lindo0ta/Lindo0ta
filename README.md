@@ -8,8 +8,8 @@
 </div>
 <p align="center" >
  </p>
-
- <img src="https://media.tenor.com/programming-kiwi-cyberpunk-edgerunners-typing-codes-texting-gif-26919607/giphy.gif" width="40"> <b>🌙 About Me</b>
+<b>🌙 About Me
+</b>
 Hi, I'm Linda.
 
 For me, coding is more than building software — it's a quiet place where ideas make sense and creativity feels limitless.
