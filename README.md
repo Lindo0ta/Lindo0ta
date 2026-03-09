@@ -17,9 +17,7 @@ For me, coding is more than building software — it's a quiet place where ideas
 While the world can be chaotic, the logic inside code is something I can always understand.  
 That's why I keep building, learning, and experimenting.
 
-Some people write stories.  
-I write code.
-
+If I'm not coding, I'm probably at the gym... or sleeping.
 <br>
 
   
