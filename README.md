@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Linda%20Maestre&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Ingenier%C3%ADa%20de%20Sistemas%20%C2%B7%20Automatizaci%C3%B3n%20%C2%B7%20Inteligencia%20Artificial&descSize=18&descAlignY=58" alt="Linda Maestre" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=AB6FA5&center=true&vCenter=true&width=700&height=45&lines=Ingeniera+de+Sistemas+en+formaci%C3%B3n;Desarrollo+Full+Stack+con+React+%2B+Python;Automatizaci%C3%B3n+de+procesos+con+n8n;Implementaci%C3%B3n+de+IA+en+sistemas+reales;Construyo+soluciones+con+l%C3%B3gica+y+sensibilidad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=AB6FA5&center=true&vCenter=true&width=700&height=45&lines=Ingeniera+de+Sistemas+en+formaci%C3%B3n;Desarrollo+Full+Stack+con+React+%2B+Python;Automatizaci%C3%B3n+de+procesos+con+n8n;Implementaci%C3%B3n+de+IA+en+sistemas+reales" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,28 +17,26 @@
 
 ---
 
-## 🌙 Sobre mí
+## Sobre mí
 
-Para mí, programar es mucho más que construir software: es un lugar tranquilo donde las ideas cobran sentido y la creatividad no tiene límites. Mientras el mundo puede ser caótico, la lógica del código es algo que siempre puedo comprender.
+Estudiante de Ingeniería de Sistemas con enfoque en desarrollo de software, automatización de procesos e inteligencia artificial aplicada.
 
-Por eso sigo construyendo, aprendiendo y experimentando.
+Diseño y construyo aplicaciones web con **React** y **Python**, automatizo flujos de trabajo con **n8n** e integro modelos de IA en sistemas reales para optimizar procesos y mejorar la toma de decisiones. Me interesa especialmente la intersección entre desarrollo, datos y automatización inteligente.
 
-Me enfoco en **desarrollar aplicaciones web modernas**, **automatizar procesos** que le ahorran horas a los equipos y **llevar la inteligencia artificial a sistemas reales**, conectando la parte técnica con las necesidades de las personas que los usan.
-
-> Si no estoy programando, probablemente estoy en el gimnasio... o durmiendo. 😴
+Actualmente profundizo en **Computer Vision** y **Machine Learning**, y busco oportunidades donde pueda aportar valor técnico y seguir creciendo profesionalmente.
 
 ---
 
-## En qué trabajo
+## Áreas de especialización
 
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <h3>⚛️ Desarrollo Web</h3>
+      <h3>Desarrollo Web</h3>
       <sub>Interfaces con <b>React</b>, backends con <b>Python</b>, <b>PHP</b> y <b>Django</b>. APIs, bases de datos y despliegue.</sub>
     </td>
     <td align="center" width="25%">
-      <h3>⚙️ Automatización</h3>
+      <h3>Automatización</h3>
       <sub>Flujos de trabajo con <b>n8n</b>: integración de APIs, webhooks, notificaciones y procesos sin intervención manual.</sub>
     </td>
     <td align="center" width="25%">
@@ -47,14 +45,14 @@ Me enfoco en **desarrollar aplicaciones web modernas**, **automatizar procesos**
     </td>
     <td align="center" width="25%">
       <h3>Visión por Computador</h3>
-      <sub>Aprendizaje de <b>Computer Vision</b> y <b>Machine Learning</b> con proyectos prácticos.</sub>
+      <sub>Estudio de <b>Computer Vision</b> y <b>Machine Learning</b> mediante proyectos prácticos.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-##  Stack tecnológico
+## Stack tecnológico
 
 ### Dominios principales
 
@@ -77,7 +75,7 @@ Me enfoco en **desarrollar aplicaciones web modernas**, **automatizar procesos**
   <img src="https://skillicons.dev/icons?i=react,css,bootstrap,tailwind,figma&theme=dark" alt="Frontend"/>
 </p>
 
-### Backend y Datos
+### Backend y datos
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,mysql,mongodb,azure&theme=dark" alt="Backend y datos"/>
@@ -91,7 +89,7 @@ Me enfoco en **desarrollar aplicaciones web modernas**, **automatizar procesos**
   <img src="https://skillicons.dev/icons?i=azure,docker,github,nginx,apache&theme=dark" alt="Cloud y DevOps"/>
 </p>
 
-### Sistemas y Herramientas
+### Sistemas y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,androidstudio,wordpress,netbeans,visualstudio,r&theme=dark" alt="Sistemas y herramientas"/>
@@ -99,9 +97,9 @@ Me enfoco en **desarrollar aplicaciones web modernas**, **automatizar procesos**
 
 ---
 
-## ⚡ Lo que puedo construir
+## Soluciones que desarrollo
 
-| | Ejemplo |
+| Área | Ejemplo |
 |---|---|
 | **Automatizaciones con n8n** | Flujos que conectan formularios, bases de datos, correo, mensajería y APIs externas, eliminando tareas repetitivas. |
 | **Sistemas con IA integrada** | Chatbots, asistentes internos, clasificación automática de documentos y extracción de información con modelos de lenguaje. |
@@ -110,12 +108,12 @@ Me enfoco en **desarrollar aplicaciones web modernas**, **automatizar procesos**
 
 ---
 
-## Ahora mismo
+## En desarrollo
 
-- Trabajando en algo interesante que pronto compartiré.
-- Profundizando en **Computer Vision** y **Machine Learning**.
-- Combinando **n8n + IA** para crear automatizaciones más inteligentes.
-- Pregúntame sobre desarrollo, automatización o IA. ¡Con gusto colaboro!
+- Proyecto en construcción que compartiré próximamente.
+- Profundización en Computer Vision y Machine Learning.
+- Integración de n8n con IA para crear automatizaciones más inteligentes.
+- Disponible para consultas sobre desarrollo, automatización e IA.
 
 ---
 
@@ -132,14 +130,11 @@ Me enfoco en **desarrollar aplicaciones web modernas**, **automatizar procesos**
 
 ---
 
-## Conectemos
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/linda-maestre-cantillo-49579038b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/linda_cantillo._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.com/users/itslindaaa">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -148,11 +143,5 @@ Me enfoco en **desarrollar aplicaciones web modernas**, **automatizar procesos**
     <img src="https://img.shields.io/badge/Email-AB6FA5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<div align="center">
-
-*"La lógica del código es mi lugar tranquilo."* 🌙
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer" width="100%" alt="footer"/>
