@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-Estudiante de Ingeniería de Sistemas con enfoque en desarrollo de software, automatización de procesos e inteligencia artificial aplicada.
+Estudiante de Ingeniería de Sistemas (Decimo semestre) con enfoque en desarrollo de software, automatización de procesos e inteligencia artificial aplicada.
 
 Diseño y construyo aplicaciones web con **React** y **Python**, automatizo flujos de trabajo con **n8n** e integro modelos de IA en sistemas reales para optimizar procesos y mejorar la toma de decisiones. Me interesa especialmente la intersección entre desarrollo, datos y automatización inteligente.
 
